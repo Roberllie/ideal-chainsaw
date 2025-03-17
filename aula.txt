@@ -2,3 +2,4 @@ estudar programação
 consolidar python
 consolidar programação web
 estudar sql
+aprender mexer no git
